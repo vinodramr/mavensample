@@ -7,6 +7,7 @@ public class AppHelloWorld {
 		System.out.println("Hello World..");
 		System.out.println("Testing Git and Eclipse");
 		System.out.println("Testing Git and pushing");
+		System.out.println("Pushing and Compiling using jenkins");
 	}
 
 }
