@@ -7,8 +7,7 @@ public class AppHelloWorld {
 		System.out.println("Hello World..");
 		System.out.println("Pushing change to github using jenkins");
 		
-		System.out.println("Pushing New changes to github with Polling in Jenkins");
-		
+		System.out.println("7th Commit and 6th build in Jenkins");
 		
 	}
 
